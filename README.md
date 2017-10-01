@@ -3,6 +3,7 @@ Contribute to it by adding your favorite resources for each category
 ## Fight Procrastination
 * [Read: Overcoming Procrastination][fp1]
 * [Tool: Ambient Sounds To Boost Creativity][fp2]
+* [Block Distractions][fp3]
 
 ## Time Management
 * [Pomodore Tool Online][tm1]
@@ -18,3 +19,4 @@ Contribute to it by adding your favorite resources for each category
 [gs1]: http://chat.stackoverflow.com/
 [fp1]: https://www.mindtools.com/pages/article/newHTE_96.htm
 [fp2]: https://coffitivity.com/
+[fp3]: https://github.com/makeitcount/awesome-productivity-booster/blob/master/block_distractions.md
